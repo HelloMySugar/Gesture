@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "bec34ca0-1d6e-994f-ba5d-9f6207ae9837" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "bec34ca0-1d6e-994f-ba5d-9f6207ae9837" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A30CB6DA-089E-46A3-955D-614C6FE3E401",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "bec34ca0-1d6e-994f-ba5d-9f6207ae9837" : "..\/..\/..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Gesture",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Gesture.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.jetlive.net:8443\/svn\/nn_mobile_app",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "bec34ca0-1d6e-994f-ba5d-9f6207ae9837"
+    }
+  ]
+}
